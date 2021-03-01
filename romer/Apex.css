@@ -1,0 +1,53 @@
+.font {
+    font-style: italic;
+    font-size: large;
+    color: darkgreen;
+    text-shadow: 2px 2px 2px rgb(1, 75, 1);
+}
+.font-td {
+    text-shadow: 2px 2px 2px rgb(52, 53, 52);
+    font-weight: 100px;
+}
+h2 {
+    text-align: center;
+    color:white;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.imagenes {
+    width: 690px;
+    height: 388px;
+    display:block;
+    margin:auto;
+}
+.fondo {
+    background-image:url('imagenes/fondo\ Apex.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+li {
+    color:white;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    
+}
+.blanco {
+    color:white;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    
+}
+table {
+    border:rgb(83, 31, 7) 5px solid;
+    color: white;
+}
+  tbody {
+    border:rgb(83, 31, 7) 5px solid;
+    color: white;
+}
+tr {
+    border: rgb(83, 31, 7) solid;
+    color: white;
+}
+td {
+    border: rgb(83, 31, 7) 5px solid;
+    color: white;
+}

@@ -1,0 +1,10 @@
+body {
+    text-indent: 5px;
+}
+img.logo {
+    width: 30px;
+    height: 28px;
+}
+div.color {
+    background-color: rgb(42 127 92);
+}

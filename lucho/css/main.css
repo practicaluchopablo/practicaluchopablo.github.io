@@ -1,0 +1,37 @@
+/* Importaciones */
+
+/* Basic */
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: beige;
+}
+
+body {
+    background: url(/img/fondo.jpg);
+}
+
+.tarjetas {
+    padding: 10px;
+    margin: 10px;
+    float: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: beige;
+}
+
+.tarjetas img {
+    border: 1px solid;
+}
+
+.carusel {
+    width: 20px;
+    height: 885px;
+    margin: 5 5 0 0;
+    padding-top: 10px;
+}
+
+.video {
+    width: 200px;
+    height: 300px;
+    margin: 10px;
+    padding: 10px;
+}

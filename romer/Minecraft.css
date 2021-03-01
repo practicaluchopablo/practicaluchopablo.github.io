@@ -1,0 +1,23 @@
+.fondo-3 {
+    background-image: url('imagenes/fondo-minecraft.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.imagen-medio {
+    display: block;
+    margin:auto
+}
+.grandioso {
+    text-size-adjust: 100px;
+}
+h2 .grandioso {
+    text-align: justify;
+}
+p {
+    color:white;
+    text-align: center;
+}
+em {
+    color:rgb(9, 216, 19)
+}

@@ -1,0 +1,31 @@
+@import url(Apex.css);
+@import url('Overwatch.css');
+@import url('Minecraft.css');
+body {
+    background-image: url('imagenes/fondo.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+  .card-border {
+      border: solid 10px white;
+      border-radius: 20px;
+      overflow: hidden;
+      transition: all  ease-out 0.2s;
+  }
+
+  .card-border:hover {
+      transform: scale(1.05);
+  }
+
+.texto1 {
+    color:white;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-shadow: 4px 4px 4px rgb(2, 37, 2);
+}
+
+.irene {
+    border-radius: 40px;
+    border: 6px solid black
+}
+

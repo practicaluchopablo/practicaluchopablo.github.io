@@ -1,0 +1,17 @@
+.fondo-2 {
+    background-image:url('imagenes/fondo-Overwatch.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.p {
+    text-align: center;
+}
+form {
+    color: white;
+}
+h3 {
+    color: white;
+    text-align: center;
+}
+

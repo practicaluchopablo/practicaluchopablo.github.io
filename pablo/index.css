@@ -1,0 +1,18 @@
+body {
+    text-indent: 5px;
+}
+img.logo {
+    width: 30px;
+    height: 28px;
+}
+img.alineacion {
+    width: 600px;
+    height: auto;
+}
+img.baner {
+    width: 600px;
+    height: auto;
+}
+div.color {
+    background-color: rgb(42 127 92);
+}
